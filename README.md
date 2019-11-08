@@ -15,8 +15,6 @@ FFmpeg release(4.2) and others: https://sourceforge.net/projects/avbuild/files
 
 ***Build Details:***
 
-Linux, android, macOS, iOS, raspberry pi, windows cross build: [![travis_ci](https://travis-ci.org/wang-bin/avbuild.svg?branch=master)](https://travis-ci.org/wang-bin/avbuild), [CircleCI](https://circleci.com/gh/wang-bin/avbuild)
-
 windows mingw, vs2013~2019, desktop/store/phone: [![appveyor_ci](https://ci.appveyor.com/api/projects/status/github/wang-bin/avbuild?branch=master&svg=true)](https://ci.appveyor.com/project/wang-bin/avbuild)
 
 ## Features
