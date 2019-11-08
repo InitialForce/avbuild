@@ -15,7 +15,7 @@ FFmpeg release(4.2) and others: https://sourceforge.net/projects/avbuild/files
 
 ***Build Details:***
 
-windows mingw, vs2013~2019, desktop/store/phone: [![appveyor_ci](https://ci.appveyor.com/api/projects/status/github/wang-bin/avbuild?branch=master&svg=true)](https://ci.appveyor.com/project/wang-bin/avbuild)
+windows mingw, vs2013~2019, desktop/store/phone: [![appveyor_ci](https://ci.appveyor.com/api/projects/status/github/InitialForce/avbuild?branch=master&svg=true)](https://ci.appveyor.com/project/InitialForce/avbuild)
 
 ## Features
 
